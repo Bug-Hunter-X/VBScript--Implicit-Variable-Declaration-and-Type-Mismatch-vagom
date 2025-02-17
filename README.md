@@ -1,0 +1,1 @@
+This repository demonstrates a common error in VBScript: the omission of the `Option Explicit` statement.  Without this statement, variables are implicitly declared, leading to potential type mismatches and unpredictable behavior. The `bug.vbs` file contains the erroneous code, while `bugSolution.vbs` provides the corrected version.
